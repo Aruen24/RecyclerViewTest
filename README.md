@@ -1,6 +1,6 @@
 # RecyclerViewTest
 
-## 实现纵向滚动布局
+## 实现纵向滚动布局(带分割线的)
 ![](https://github.com/wang911205/RecyclerViewTest/blob/master/pictute/1.png)
 
 实现代码
@@ -23,7 +23,7 @@ protected void onCreate(Bundle savedInstanceState) {
  
  
  
-## 实现横向滚动布局
+## 实现横向滚动布局(带分割线的)
 ![](https://github.com/wang911205/RecyclerViewTest/blob/master/pictute/2.png)
 
 实现代码
@@ -46,7 +46,7 @@ protected void onCreate(Bundle savedInstanceState) {
 
 
 
-## 实现瀑布流布局
+## 实现瀑布流布局(带分割线的)
 ![](https://github.com/wang911205/RecyclerViewTest/blob/master/pictute/3.png) 
 
 实现代码
